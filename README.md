@@ -9,7 +9,7 @@ Tôi dùng GitHub để lưu một số thứ linh tinh.
 
 ```
 Họ và tên : Bùi Đình Lộc
-Nickname : Try Ga Xe (/traɪ ga ze/), TgX.2
+Nickname : Try Ga Xe (/trɪ ga ze/), TgX.2
 Cấp 3 : Chuyên Tin K28 - THPT Chuyên Hùng Vương - Thành phố Hồ Chí Minh
 Ngôn ngữ sử dụng : Tiếng Việt, C++
 ```
